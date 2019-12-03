@@ -1,2 +1,2 @@
-# CASA0005-learnGit
-Indeed, I'm learning Git
+# CASA0005-learnChoropleth
+Indeed, I'm learning choropleth maps
